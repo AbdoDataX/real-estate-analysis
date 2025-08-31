@@ -44,6 +44,7 @@ The dataset includes:
 ## 🖼️ Dashboard Preview
 <img width="1506" height="755" alt="dashhboard png" src="https://github.com/user-attachments/assets/e0ff0c89-81dc-4995-b936-6851f0bdb2ba" />
 
+<img width="898" height="843" alt="Recomendation png" src="https://github.com/user-attachments/assets/0023c093-5f01-4fef-a088-ef3fb944c5a8" />
 
 
 ---
