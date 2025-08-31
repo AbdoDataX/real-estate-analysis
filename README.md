@@ -42,7 +42,8 @@ The dataset includes:
 ---
 
 ## 🖼️ Dashboard Preview
-![Uploading dashhboard.png.png…]()
+<img width="1506" height="755" alt="dashhboard png" src="https://github.com/user-attachments/assets/e0ff0c89-81dc-4995-b936-6851f0bdb2ba" />
+
 
 
 ---
